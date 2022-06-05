@@ -1,2 +1,1 @@
-# DSC530
-class repo
+# DSC530 - Final Project Repo
